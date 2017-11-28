@@ -20,7 +20,7 @@ v2
 
 v3
 画廊应用完成，并上传到gh-pages上，供线上访问
-1.在构建时，应先修改cfg/default.js中的public.js，将其从"/assets"修改为"assets"
+1. 在构建时，应先修改cfg/default.js中的public.js，将其从"/assets"修改为"assets"
 2. 将src/index.html中的src链接的路径由“/assets”修改为“./assets”
-3.运行npm run dist
+3. 运行npm run dist
 4. 如果想要本地看到，发布版本dist文件夹的运行效果，可以使用npm start --dist
