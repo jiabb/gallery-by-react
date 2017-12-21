@@ -24,3 +24,6 @@ v3
 2. 将src/index.html中的src链接的路径由“/assets”修改为“./assets”
 3. 运行npm run dist
 4. 如果想要本地看到，发布版本dist文件夹的运行效果，可以使用npm start --dist
+
+
+在线预览效果地址：https://wjma110.github.io/gallery-by-react/
